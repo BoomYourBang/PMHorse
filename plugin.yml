@@ -1,0 +1,6 @@
+name: PMHorse
+main: pmhorse\PMHorse
+version: "1.0"
+api: [3.0.0]
+author: "BoomYourBang"
+description: "Adds horses to PocketMine"
