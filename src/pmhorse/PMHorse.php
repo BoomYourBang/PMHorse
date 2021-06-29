@@ -8,6 +8,7 @@ class PMHorse extends PluginBase{
 
 	public function onEnable() : void{
 		self::$instance = $this;
+		// finish later
 	}
 
 	public function onDisable() : void{
